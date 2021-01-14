@@ -14,4 +14,4 @@ Implements a static express server and fetches that data on the front end.
 7. View json at http://localhost:4001/homepage
 
 
-#### (Note: I eneterd an image at the bottom of the page under the footer banner to better prove lazy loading)
+#### (Note: I entered an image at the bottom of the page under the footer banner to better prove lazy loading)
