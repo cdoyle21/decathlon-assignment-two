@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="91" height="40" viewBox="0 0 91 40">
+    <defs>
+        <rect id="zp4z4hg8ua" width="91" height="40" x="0" y="0" rx="3"/>
+        <path id="na3xul0dnc" d="M8.59 16.59L13.17 12 8.59 7.41 10 6 16 12 10 18z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g>
+                        <g transform="translate(-141 -446) translate(0 121) translate(130 76) translate(11 249)">
+                            <mask id="l3zcmexx9b" fill="#fff">
+                                <use xlink:href="#zp4z4hg8ua"/>
+                            </mask>
+                            <use fill="#FFEA28" xlink:href="#zp4z4hg8ua"/>
+                            <path fill="#FDD835" d="M91 32L91 40 64 40z" mask="url(#l3zcmexx9b)"/>
+                        </g>
+                        <g transform="translate(-141 -446) translate(0 121) translate(130 76) translate(11 249) translate(57 8)">
+                            <mask id="echemim4xd" fill="#fff">
+                                <use xlink:href="#na3xul0dnc"/>
+                            </mask>
+                            <use fill="#000" fill-rule="nonzero" xlink:href="#na3xul0dnc"/>
+                            <path fill="#1A171B" d="M0 0H24V24H0z" mask="url(#echemim4xd)"/>
+                        </g>
+                        <g fill="#1A171B" font-family="RobotoCondensed-Bold, Roboto Condensed" font-size="14" font-weight="bold">
+                            <text transform="translate(-141 -446) translate(0 121) translate(130 76) translate(11 249) translate(5 12)">
+                                <tspan x=".372" y="13">DISCOVER</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

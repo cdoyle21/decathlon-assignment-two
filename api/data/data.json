@@ -1,0 +1,146 @@
+{
+    "homepage": [
+        {
+            "content": [
+                {
+                    "text": "Contact Us"
+                },
+                {
+                    "text": "Find a Store"
+                },
+                {
+                    "text": "My Account"
+                },
+                {
+                    "text": "My Basket"
+                },
+                {
+                    "text": "All Sports"
+                },
+                {
+                    "text": "Men"
+                },
+                {
+                    "text": "Women"
+                },
+                {
+                    "text": "Kids"
+                },
+                {
+                    "text": "Accessories"
+                },
+                {
+                    "text": "Nutrition & Body Care"
+                },
+                {
+                    "text": "Get ready to wrap up"
+                },
+                {
+                    "text": "Decathlon. Discover yourself"
+                },
+                {
+                    "text": "Most Searched Products"
+                },
+                {
+                    "text": "Over 70 sports to experience"
+                },
+                {
+                    "text": "Menu"
+                }
+            ],
+            "links": "",
+            "images": [
+                {
+                    "image": "images/78.svg", 
+                    "alt": "Sport Experience"
+                },
+                {
+                    "image": "images/buttons-primary-icon-right-normal.svg", 
+                    "alt": "Primary Icon Right"
+                },
+                {
+                    "image": "images/buttons-teritary-icon-right-normal.svg", 
+                    "alt": "Teritary Icon Right"
+                },
+                {
+                    "image": "images/contact-us.png", 
+                    "alt": "Contact Us"
+                }, 
+                {
+                    "image": "images/decathlon-logo-GB.png",
+                    "alt": "Decathlon Logo"
+                },
+                {
+                    "image": "images/find-a-store.png",
+                    "alt": "Find A Store"
+                },
+                {
+                    "image": "images/getreadywrapup-desktop.jpg",
+                    "alt": "Get Ready One"
+                },
+                {
+                    "image": "images/getreadywrapup-desktop@2x.jpg", 
+                    "alt": "Get Ready Two"
+                },
+                {
+                    "image": "images/getreadywrapup-desktop@3x.jpg", 
+                    "alt": "Get Ready Three"
+                },
+                {
+                    "image": "images/icons-left.svg", 
+                    "alt": "Icon Left"
+                },
+                {
+                    "image": "images/icons-right.svg",
+                    "alt": "Icon Right"
+                },
+                {
+                    "image": "images/my-account.png", 
+                    "alt": "My Account"
+                },
+                {
+                    "image": "images/my-basket.png",
+                    "alt": "My Basket"
+                },
+                {
+                    "image": "images/search-glass.png",
+                    "alt": "Search"
+                },
+                {
+                    "image": "images/group.jpg", 
+                    "alt": "Get Ready"
+                },
+                {
+                    "image": "images/icons-picto-weights.svg", 
+                    "alt": "Dumbells"
+                }
+            ],
+            "products": [
+                {
+                    "productImage": "images/barbells.png",
+                    "productAlt": "Barbells",
+                    "productHeadline": "Barbells",
+                    "productText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+                },
+                {
+                    "productImage": "images/dumbells.png",
+                    "productAlt": "Dumbells",
+                    "productHeadline": "Dumbells",
+                    "productText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+                },
+                {
+                    "productImage": "images/kettlebell.jpg",
+                    "productAlt": "Kettlebells",
+                    "productHeadline": "Kettlebells",
+                    "productText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+                },
+                {
+                    "productImage": "images/weights.png",
+                    "productAlt": "Weights",
+                    "productHeadline": "Weights",
+                    "productText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+                }
+            ]
+        }
+    ]
+}
